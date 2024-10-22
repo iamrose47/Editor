@@ -6,10 +6,8 @@
 </div>
 
 ## Online code editor for HTML, CSS and Javascript to discover frontend code
+## Online Markdown editor for generating Readme Files
 
-<div align="center">
-  <img alt="Demo" src="./src/Assets/web.gif"/>
-</div>
 
 ### Features:
 
@@ -19,11 +17,6 @@
 - Autoclose of tags and brackets
 - Live Preview
 
-## Online Markdown editor for generating Readme Files
-
-<div align="center">
-  <img alt="Demo" src="./src/Assets/markdown.gif"/>
-</div>
 
 ## Features
 
@@ -34,7 +27,4 @@
 - Auto save of work
 - Download the file Readme.md file
 
-### Show your support
-
-Give a ⭐ if you like this website!
 
