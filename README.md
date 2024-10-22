@@ -1,7 +1,7 @@
 <div align="center">
 
 # Editor.io
-## [https://editorbyrose.netlify.app/] (Link)
+## https://editorbyrose.netlify.app/
 
 </div>
 
